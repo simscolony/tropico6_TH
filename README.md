@@ -1,2 +1,4 @@
 # tropico6_TH
-Ttopico 6 Thai Transalation and Localization
+Tropico 6 Thai Transalation and Localization
+ตัวแปลภาษาไทย เกม Tropico 6 100% 
+
