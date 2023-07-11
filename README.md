@@ -11,4 +11,5 @@ Tropico 6 Thai Transalation and Localization
 Tropico 6\Tropico6\Content\Paks
 
 หากติดตั้งใน Stream คลิกขวาที่ป้ายเกมแล้วเลือกเปิดหาไฟล์
+
 ![บันทึกแบบเต็มหน้าจอ 11 ก ค  2566 222933 bmp](https://github.com/simscolony/tropico6_TH/assets/13219372/71458ec5-80d4-45c8-8efa-19361ba338c4)
