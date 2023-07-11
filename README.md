@@ -17,3 +17,6 @@ Tropico 6\Tropico6\Content\Paks
 นำไฟล์ที่ดาวโหลดแล้วไปวางที่
 
 ![บันทึกแบบเต็มหน้าจอ 11 ก ค  2566 223643 bmp](https://github.com/simscolony/tropico6_TH/assets/13219372/daa121a3-7aa4-4a6c-a5cf-64689e4aa975)
+
+ภาพตัวอย่างเกมและไฟล์สำรองดูได้ที่
+https://www.nexusmods.com/tropico6/mods/2
