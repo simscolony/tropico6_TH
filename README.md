@@ -5,7 +5,7 @@ Tropico 6 Thai Transalation and Localization
 
  tropico 6 THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
-|  tropico 6 THAI 99%| [แปลไทย tropico 6 - 2023 ](https://github.com/simscolony/tropico6_TH/raw/main/Tropico6_THAI_3_P.pak) |แปลไทย|
+|  tropico 6 THAI 99%| [แปลไทย tropico 6 - 2023 ][([https://github.com/simscolony/tropico6_TH/raw/main/Tropico6_THAI_3_P.pak](https://github.com/simscolony/tropico6_TH/raw/main/Tropico%206.pak))](https://github.com/simscolony/tropico6_TH/raw/main/Tropico%206.pak) |แปลไทย|
 
 แตกไฟล์แล้วนำไปไว้ใน
 Tropico 6\Tropico6\Content\Paks
