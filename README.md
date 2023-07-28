@@ -1,8 +1,8 @@
+![บันทึกแบบเต็มหน้าจอ 12 ก ค  2566 182851](https://github.com/simscolony/tropico6_TH/assets/13219372/f2130fb9-1c9d-4fee-ac08-a6b16113a418)
 # Tropico 6 Thai 
 ## ตัวแปลภาษาไทย เกม Tropico 6 100% 
 
-
- tropico 6 THAI| Download|รายละเอียด|
+| tropico 6 THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
 |  tropico 6 THAI 99%| [แปลไทย tropico 6 - 2023 ](https://github.com/simscolony/tropico6_TH/raw/main/Tropico%206.pak) |แปลไทย|
 
@@ -20,7 +20,7 @@ Tropico 6\Tropico6\Content\Paks
 
 3.เข้าเกมเลือก Oprion >
 ![บันทึกแบบเต็มหน้าจอ 12 ก ค  2566 182847](https://github.com/simscolony/tropico6_TH/assets/13219372/602aae1b-f3ad-4984-9bd4-eed87b2292c9)
-![บันทึกแบบเต็มหน้าจอ 12 ก ค  2566 182851](https://github.com/simscolony/tropico6_TH/assets/13219372/f2130fb9-1c9d-4fee-ac08-a6b16113a418)
+
 
 
 ## ภาพตัวอย่างเกมและไฟล์สำรองดูได้ที่
