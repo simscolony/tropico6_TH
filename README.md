@@ -12,6 +12,8 @@
 | tropico 6 THAI| Download|รายละเอียด|
 | ------------- | ------------- | ------------- |
 |  tropico 6 THAI 99%| [แปลไทย tropico 6 - 2023 ](https://github.com/simscolony/tropico6_TH/raw/main/Tropico%206.pak) |แปลไทย|
+|  tropico 6 THAI 99% nexusmods | [แปลไทย tropico 6 - nexusmods ]([https://github.com/simscolony/tropico6_TH/raw/main/Tropico%206.pak](https://www.nexusmods.com/tropico6/mods/2)) |แปลไทย|
+
 
 ### แตกไฟล์แล้วนำไปไว้ใน
 Tropico 6\Tropico6\Content\Paks
